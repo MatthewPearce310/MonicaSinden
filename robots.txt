@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monicasinden.co.za/sitemap.xml
