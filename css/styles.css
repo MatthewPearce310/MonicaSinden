@@ -768,6 +768,7 @@ html.menu-open { overflow: hidden; }
 .ph-item:last-child { border-bottom: 0; padding-bottom: 0; }
 .ph-item dt { font-weight: 600; }
 .ph-item dd { margin: .15rem 0 0; color: var(--muted); }
+.ph-item dd .dd-link { display: inline-block; margin-top: .35rem; }
 .ph-item dd a { color: var(--link); font-weight: 500; text-underline-offset: 4px; }
 .ph-intro { color: var(--muted); }
 .footer-contact a { color: var(--on-deep); text-underline-offset: 4px; }
